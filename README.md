@@ -12,7 +12,7 @@
 
 
 
-🥵cd botfb
+🥵cd FBBOT
 
 
 
