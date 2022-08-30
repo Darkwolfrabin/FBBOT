@@ -7,6 +7,12 @@
 🥵pkg install git
 
 
+🥵rm -rf FBBOT
+
+
+🥵rm -rf run.py
+
+
 
 🥵git clone https://github.com/Darkwolfrabin/FBBOT.git
 
@@ -22,3 +28,4 @@
 
 
 🥵python run.py
+
